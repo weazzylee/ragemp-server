@@ -128,3 +128,15 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# RAGEMP server files
+bin
+client_packages
+dotnet
+packages
+ragemp-server
+ragemp-server.exe
+
+# Temparary added
+maps
+plugins 

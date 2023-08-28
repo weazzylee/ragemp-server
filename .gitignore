@@ -131,7 +131,8 @@ dist
 
 # RAGEMP server files
 bin
-client_packages
+client_packages/*
+!client_packages/common
 dotnet
 packages
 ragemp-server
